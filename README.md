@@ -142,8 +142,10 @@ Electronics
 Furniture
 Accessories
 ```
-
-<img width="1558" height="909" alt="Screenshot 2026-10-05 112539" src="https://github.com/user-attachments/assets/f8ac6d2e-8ad7-4955-98b3-31263724a991" />
-<img width="1480" height="916" alt="Screenshot 2026-10-05 112526" src="https://github.com/user-attachments/assets/8a6c7853-ebbb-43cc-8d17-a28be3c05afd" />
-<img width="1549" height="896" alt="Screenshot 2026-10-05 112517" src="https://github.com/user-attachments/assets/cd33e291-ac83-41df-9f87-e6cb709969a9" />
 <img width="1567" height="904" alt="Screenshot 2026-10-05 112505" src="https://github.com/user-attachments/assets/3302f072-499a-4402-bb61-4393bab9efcf" />
+<img width="1549" height="896" alt="Screenshot 2026-10-05 112517" src="https://github.com/user-attachments/assets/cd33e291-ac83-41df-9f87-e6cb709969a9" />
+<img width="1480" height="916" alt="Screenshot 2026-10-05 112526" src="https://github.com/user-attachments/assets/8a6c7853-ebbb-43cc-8d17-a28be3c05afd" />
+<img width="1558" height="909" alt="Screenshot 2026-10-05 112539" src="https://github.com/user-attachments/assets/f8ac6d2e-8ad7-4955-98b3-31263724a991" />
+
+
+
