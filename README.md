@@ -1,16 +1,16 @@
 # 📊 Data Analytics & Business Intelligence Dashboard
 
-A full-stack Data Analytics and Business Intelligence Dashboard built to analyze sales data, monitor business KPIs, visualize trends, and generate useful business reports.
+A full-stack **Data Analytics and Business Intelligence Dashboard** built to analyze sales data, monitor business KPIs, visualize trends, and generate useful business reports.
 
-The system provides interactive dashboards, charts, filters, search functionality, CSV data import/export, PDF report generation, and top-selling product analysis.
+The system provides interactive dashboards, charts, filters, search functionality, CSV data import/export, PDF report generation, pagination, customizable dashboard sections, and top-selling product analysis.
 
 ---
 
 ## 🚀 Project Overview
 
-The Data Analytics & Business Intelligence Dashboard is a web-based analytics application that helps users understand business sales performance through interactive visualizations and key performance indicators.
+The **Data Analytics & Business Intelligence Dashboard** is a web-based analytics application that helps users understand business sales performance through interactive visualizations and key performance indicators.
 
-The application connects a React.js frontend with a Node.js/Express.js backend and PostgreSQL database.
+The application connects a **React.js frontend** with a **Node.js/Express.js backend** and a **PostgreSQL database**.
 
 Users can:
 
@@ -111,7 +111,7 @@ The monthly sales chart helps identify:
 
 ### 🏆 Top-Selling Products
 
-The dashboard automatically calculates and displays the top 5 products based on total sales revenue.
+The dashboard automatically calculates and displays the **Top 5 products** based on total sales revenue.
 
 Each product includes:
 
@@ -124,9 +124,9 @@ Each product includes:
 
 ### 🔎 Search
 
-Users can search sales records using the product name and other available information.
+Users can search sales records using the available sales information.
 
-The search works together with the dashboard filters.
+The search functionality works together with the dashboard filters.
 
 ---
 
@@ -134,7 +134,7 @@ The search works together with the dashboard filters.
 
 Users can select a specific category to analyze.
 
-Available option:
+Available options include:
 
 ```text
 All Categories
